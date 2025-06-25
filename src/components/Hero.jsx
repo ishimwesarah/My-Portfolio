@@ -54,7 +54,7 @@ const Hero = ({ setActiveSection }) => {
               Contact Me
             </motion.a>
             <motion.a
-              href="/path-to-resume.pdf"
+              href="/Sarah.pdf"
               download
               className="secondary-btn"
               whileHover={{ y: -3 }}
@@ -77,7 +77,7 @@ const Hero = ({ setActiveSection }) => {
               <FiLinkedin />
             </motion.a>
             <motion.a 
-              href="https://github.com/yourusername" 
+              href="https://github.com/ishimwesarah" 
               target="_blank" 
               rel="noreferrer"
               whileHover={{ y: -3 }}

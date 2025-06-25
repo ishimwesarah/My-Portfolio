@@ -16,16 +16,16 @@ const projects = [
     title: "E-Commerce Platform",
     description: "Full-featured online store with product listings, cart functionality, and secure checkout process.",
     technologies: ["React", "Node.js", "MongoDB", "Redux", "Stripe API"],
-    github: "#",
-    live: "#",
+    github: "https://github.com/ishimwesarah/Ecommerce",
+    live: "https://ecommerce-nxuv.vercel.app/",
     image: p3
   },
   {
     title: "SheLeads Finance",
     description: "Financial dashboard for women entrepreneurs with analytics, budgeting, and investment tracking.",
     technologies: ["React", "Firebase", "Chart.js", "Material UI"],
-    github: "#",
-    live: "#",
+    github: "https://github.com/ishimwesarah/sheleads",
+    live: "https://sheleads-rust.vercel.app/",
     image: p2
   },
   {
