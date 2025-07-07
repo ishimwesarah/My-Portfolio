@@ -69,7 +69,7 @@ const Hero = ({ setActiveSection }) => {
             variants={itemVariants}
           >
             <motion.a 
-              href="https://linkedin.com/in/sarahishimwe" 
+              href="https://www.linkedin.com/in/sarah-ishimwe/" 
               target="_blank" 
               rel="noreferrer"
               whileHover={{ y: -3 }}
