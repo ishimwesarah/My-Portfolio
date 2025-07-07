@@ -15,7 +15,7 @@ const projects = [
   {
     title: "E-Commerce Platform",
     description: "Full-featured online store with product listings, cart functionality, and secure checkout process.",
-    technologies: ["React", "Node.js", "MongoDB", "Redux", "Stripe API"],
+    technologies: ["React", "Node.js", "MongoDB", "Node js"],
     github: "https://github.com/ishimwesarah/Ecommerce",
     live: "https://ecommerce-nxuv.vercel.app/",
     image: p3
@@ -23,7 +23,7 @@ const projects = [
   {
     title: "SheLeads Finance",
     description: "Financial dashboard for women entrepreneurs with analytics, budgeting, and investment tracking.",
-    technologies: ["React", "Firebase", "Chart.js", "Material UI"],
+    technologies: ["React", "nodejs", "Chart.js", "Material UI"],
     github: "https://github.com/ishimwesarah/sheleads",
     live: "https://sheleads-rust.vercel.app/",
     image: p2
@@ -31,7 +31,7 @@ const projects = [
   {
     title: "Recipe Book Mobile App",
     description: "Cross-platform mobile application with recipe search, favorites, and meal planning features.",
-    technologies: ["React Native", "Firebase", "Expo"],
+    technologies: ["React Native", "Nodejs", "Expo"],
     github: "#",
     live: "#",
     image: p1

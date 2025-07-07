@@ -7,7 +7,7 @@ const certificates = [
     title: "Software Development Certification",
     institution: "kLab Innovation Hub",
     year: "2024",
-    imageUrl: ce1 // Update with your actual image path
+    imageUrl: ce1 
   },
   
 ];

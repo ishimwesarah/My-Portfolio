@@ -54,7 +54,7 @@ const About = () => {
             </div>
             <div className="detail-item">
               <span>Languages:</span>
-              <span>English (Fluent), Kinyarwanda (Fluent), French (Conversational)</span>
+              <span>English (Fluent), Kinyarwanda (Fluent)</span>
             </div>
           </div>
         </div>
